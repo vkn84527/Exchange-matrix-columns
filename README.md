@@ -22,5 +22,5 @@
 12 10 11 9<br/>
 16 14 15 13<br/>
 
-#Resource 
+# Resource 
 [Click_Here](https://practice.geeksforgeeks.org/problems/exchange-matrix-columns/0/?track=dsa-self-paced-preview-matrix&batchId=174)
